@@ -2,9 +2,9 @@
 # $Revision: 1
 #
 # Meterpreter script that injects into Bit9 Parity Application Whitelisting processes
-# This takes advantage of a vulnerability in Bit9 Parity 6.0.x where 
+# This takes advantage of a vulnerability in Bit9 Parity 6.1.x where 
 # the Notifier.exe process is not protected and trusted to execute from
-# Provided by: Curt Shaffer <cshaffer [at] foregrounsecurity.com>
+# Provided by: Curt Shaffer <cshaffer [at] gmail.com>
 #
 # Prerequisites: You will need to have a DLL payload that you want to use.
 # I use Meterpreter well, because it r0x :)
